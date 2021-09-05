@@ -1,3 +1,4 @@
+[Chia-Business-Whitepaper-2021-02-09-v1.0.pdf](https://github.com/github/docs/files/7112239/Chia-Business-Whitepaper-2021-02-09-v1.0.pdf)
 ---
 title: GitHub Username Policy
 redirect_from:
