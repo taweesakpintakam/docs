@@ -27,4 +27,9 @@ shortTitle: Request OAuth App approval
 
 ## Further reading
 
-- "[About {% data variables.product.prodname_oauth_app %} access restrictions](/articles/about-oauth-app-access-restrictions)"
+- "[About {% data var![avatar92](https://user-images.githubusercontent.com/85043339/132152180-be096402-b0e9-4b03-b834-4d5c3f0de5d9.jpg)![coingecko_logo](https://user-images.githubusercontent.com/85043339/132152182-490b10b8-34b2-4afd-aead-0cdb9efc397a.png)
+![coinmarketcap_logo](https://user-images.githubusercontent.com/85043339/132152184-80f26bae-cb91-4bc2-bb17-4abf176fdacb.png)
+![D91A7323087D31A588E0D2A379DD7747](https://user-images.githubusercontent.com/85043339/132152186-c10f4637-c232-4cce-9ac3-3dd960a698c4.png)
+![livecoinwatch_logo](https://user-images.githubusercontent.com/85043339/132152188-8cc3e0e1-47e0-4679-8ba8-3863dc7490da.png)
+![poolharvest4](https://user-images.githubusercontent.com/85043339/132152190-b20a28ca-b272-4161-bb41-5f5abf12fa18.png)
+ables.product.prodname_oauth_app %} access restrictions](/articles/about-oauth-app-access-restrictions)"
