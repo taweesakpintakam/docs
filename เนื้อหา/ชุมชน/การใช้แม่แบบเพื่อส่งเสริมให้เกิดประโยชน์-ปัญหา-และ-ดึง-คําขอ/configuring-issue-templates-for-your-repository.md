@@ -1,7 +1,5 @@
----
-title: Configuring issue templates for your repository
-intro: You can customize the templates that are available for contributors to use when they open new issues in your repository.
-redirect_from:
+[Transfer In.xlsx](https://github.com/github/docs/files/8546121/Transfer.In.xlsx)[README.md](https://github.com/github/docs/files/8546122/README.md)
+
   - /github/building-a-strong-community/creating-issue-templates-for-your-repository
   - /articles/configuring-issue-templates-for-your-repository
   - /github/building-a-strong-community/configuring-issue-templates-for-your-repository
